@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfan7839&label=Profile%20views&color=0e75b6&style=flat" alt="irfan7839" /> </p>
 
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **System Design**
 
 - 💬 Ask me about **Django, angular, react**
 
